@@ -13,7 +13,7 @@
 <!-- ![Profile Banner](./new-banner.gif) -->
 
 <div>
-<img width="100%" height="100%" src="./new-banner.gif" />
+<img width="100%" height="100%" src="./banner.gif" />
 </div>
 
 ## Hey, I’m Metro
